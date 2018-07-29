@@ -124,6 +124,9 @@ nav li a:hover; nav li a:active{
     width: 310px;
 }
 
+#todaysmenu h4{
+    font-size: 13px;
+}
 #menu-container{
     width: 310px;
     display: flex;
